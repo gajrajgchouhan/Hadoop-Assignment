@@ -37,5 +37,6 @@ Class5  232005308376
 #### Random Data Generation - cpp file.
 #### Hadoop Files - .java file.
 
-![Screenshot from 2021-08-07 21-13-36](https://user-images.githubusercontent.com/54475046/128606069-cc7a2fa4-2db2-4ced-a493-b3d46f6735e6.png)
+#### File Tree
+ -  <img src="https://user-images.githubusercontent.com/54475046/128606069-cc7a2fa4-2db2-4ced-a493-b3d46f6735e6.png" width="400" />
 
